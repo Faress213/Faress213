@@ -1,4 +1,6 @@
-![logo](https://img.freepik.com/premium-vector/word-cloud-background-concept-software-engineering-computer-programming-system-cloud-technology-development-application-management-vector-illustration_616200-4829.jpg?w=1050)
+<div align="center">
+  <img src="https://img.freepik.com/premium-vector/word-cloud-background-concept-software-engineering-computer-programming-system-cloud-technology-development-application-management-vector-illustration_616200-4829.jpg?w=1050" alt="logo" width="500"/>
+</div>
 <h1 align="center">Hi 👋, I'm Fares</h1>
 <h3 align="center">A Passionate Software Engineer with solid skills in Mobile App Development & Machine Learning</h3>
 <img align="right" alt "Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
