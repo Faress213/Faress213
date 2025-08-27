@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **Fareskaram268@gmail.com**
 
-- ⚡ Fun fact **I'm in my Third Year in Artificial Intelligence Faculty :)**
+- ⚡ Fun fact **I'm an Artificial Intelligence graduate :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
